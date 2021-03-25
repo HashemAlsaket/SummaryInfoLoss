@@ -9,3 +9,7 @@ How much information do we lose when we summarize? This project uses a deep lear
 3. scrape_summaries.ipynb
 4. train_bow_classifier.ipynb
 5. transcript_analysis.ipynb
+
+# Trained PyTorch DNN classifier: 
+
+checkpoint.pth.tar
